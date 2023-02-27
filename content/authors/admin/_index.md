@@ -1,7 +1,7 @@
 ---
 title: Gruppo Alpini Valdarno
 role: Associazione Nazionale Alpini Sezione Firenze
-avatar_filename: null
+avatar_filename: logo_ana.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
