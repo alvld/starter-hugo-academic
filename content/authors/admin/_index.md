@@ -1,7 +1,7 @@
 ---
 title: Gruppo Alpini Valdarno
 role: Associazione Nazionale Alpini Sezione Firenze
-avatar_filename: https://upload.wikimedia.org/wikipedia/it/d/d9/Logo_Ana.jpg
+avatar_filename: null
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -31,8 +31,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Associazione Nazionale Alpini
+    url: https://www.ana.it/
 education:
   courses:
     - course: PhD in Artificial Intelligence
