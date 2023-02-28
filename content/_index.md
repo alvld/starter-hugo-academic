@@ -9,7 +9,7 @@ sections:
     content:
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery assets/media/ >}}
     design:
       columns: '1'
   - block: about.avatar
