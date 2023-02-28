@@ -4,13 +4,13 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Chi Siamo
     url: '#about'
     weight: 10
   - name: Eventi
     url: '#posts'
     weight: 20
-  - name: Contatti
+  - name: Scrivici
     url: '#contact'
     weight: 60
 
