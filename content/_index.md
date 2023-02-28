@@ -45,7 +45,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '1'
+      columns: '3'
   - block: contact
     id: contact
     content:
