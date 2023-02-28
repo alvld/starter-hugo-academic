@@ -1,7 +1,5 @@
 ---
-title: Gruppo Alpini Valdarno
-role: Associazione Nazionale Alpini Sezione Firenze
-avatar_filename: logo_ana.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -48,7 +46,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Associazione Nazionale Alpini Sezione Firenze
 highlight_name: true
+title: Gruppo Alpini Valdarno
 first_name: Alice
 email: ""
 ---
