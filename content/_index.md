@@ -22,11 +22,11 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Eventi Recenti
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 8
       # Filter on criteria
       filters:
         folders:
@@ -45,7 +45,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '2'
+      columns: '1'
   - block: contact
     id: contact
     content:
