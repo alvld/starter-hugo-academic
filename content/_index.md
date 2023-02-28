@@ -11,7 +11,7 @@ sections:
       text: |-
         {{< gallery album="demo" >}}
     design:
-      columns: '2'
+      columns: '1'
   - block: about.avatar
     id: about
     content:
