@@ -10,6 +10,9 @@ main:
   - name: Eventi
     url: '#posts'
     weight: 20
+  - name: Il Gruppo
+    url: '#projects'
+    weight: 30    
   - name: Scrivici
     url: '#contact'
     weight: 60
