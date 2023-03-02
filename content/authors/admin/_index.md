@@ -1,6 +1,6 @@
 ---
 title: Gruppo Alpini Valdarno
-role: Associazione Nazionale Alpini Sezione Firenze
+role: Associazione Nazionale Alpini - Sezione Firenze
 avatar_filename: avatar.jpg
 bio: ""
 interests:
