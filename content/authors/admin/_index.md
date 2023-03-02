@@ -2,7 +2,7 @@
 title: Gruppo Alpini Valdarno
 role: Associazione Nazionale Alpini Sezione Firenze
 avatar_filename: avatar.jpg
-bio: Organigramma gruppo
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -36,21 +36,3 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-<!--StartFragment-->
-
-Capogruppo 
-
-* Giovanni Maria Zinetti 
-
-Vice Capogruppo 
-
-* Bruno Brocchi
-
-Consiglieri
-
-* Bruno Brocchi 
-* Marino Presenti 
-* Luciano Mazzi 
-* Gianni Bartoli
-
-<!--EndFragment-->
