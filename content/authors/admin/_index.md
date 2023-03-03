@@ -3,10 +3,7 @@ title: Gruppo Alpini Valdarno
 role: Associazione Nazionale Alpini - Sezione Firenze
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
