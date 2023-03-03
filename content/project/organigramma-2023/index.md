@@ -10,19 +10,19 @@ image:
 ---
 <!--StartFragment-->
 
-Capogruppo 
+# **Capogruppo** 
 
-* Giovanni Maria Zinetti 
+* **Giovanni Maria Zinetti** 
 
-Vice Capogruppo 
+# **Vice Capogruppo** 
 
-* Bruno Brocchi
+* **Bruno Brocchi**
 
-Consiglieri
+# **Consiglieri**
 
-* Bruno Brocchi 
-* Marino Presenti 
-* Luciano Mazzi 
-* Gianni Bartoli
+* **Bruno Brocchi** 
+* **Marino Presenti** 
+* **Luciano Mazzi** 
+* **Gianni Bartoli**
 
 <!--EndFragment-->
