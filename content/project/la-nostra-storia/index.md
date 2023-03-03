@@ -4,7 +4,7 @@ date: 2023-03-01T12:04:25.985Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: 3cap.jpg
   focal_point: ""
   preview_only: false
 ---
