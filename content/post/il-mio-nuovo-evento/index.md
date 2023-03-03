@@ -1,5 +1,5 @@
 ---
-title: Il mio nuovo evento
+title: esempio nuovo evento
 date: 2023-02-27T15:54:01.896Z
 draft: false
 featured: false
@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-a﻿swedad qwe q
+esempio contenuto
 
 ![](alpini-min.jpg)
 
