@@ -74,7 +74,7 @@ sections:
       text: |-
         Per contattare gli amici del Gruppo Alpini Valdarno Superiore scrivi qui:
       # Contact (add or remove contact options as necessary)
-      email: gruppoalpini.valdarno@gmail.co
+      email: gruppoalpini.valdarno@gmail.com
       phone: 3332616399
       address:
         street: Strada provinciale Penna 11
