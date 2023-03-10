@@ -11,6 +11,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
+  - display:
+      header: false
+    link: https://www.facebook.com/gruppoalpinivaldarno/
+    icon_pack: fab
+    icon: facebook
 organizations:
   - name: Associazione Nazionale Alpini
     url: https://www.ana.it/
