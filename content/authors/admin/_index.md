@@ -19,7 +19,7 @@ social:
   - display:
       header: false
     link: https://www.facebook.com/people/Gruppo-Alpini-Valdarno-Superiore-Valerio-Scarpellini/100070606462929/
-    icon_pack: fas
+    icon_pack: fab
     icon: facebook
 organizations:
   - name: Associazione Nazionale Alpini
