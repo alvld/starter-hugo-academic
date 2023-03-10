@@ -22,7 +22,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Eventi Recenti
+      title: Eventi
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -76,7 +76,6 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: gruppoalpini.valdarno@gmail.co
       phone: 3332616399
-      appointment_url: 'https://calendly.com'
       address:
         street: Strada provinciale Penna 11
         city: Terranuova Bracciolin
