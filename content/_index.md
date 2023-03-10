@@ -79,8 +79,6 @@ sections:
       address:
         street: Strada provinciale Penna 11
         city: Terranuova Bracciolin
-        region: CA
-        postcode: '94305'
         country: Italia
         country_code: IT
       # Automatically link email and phone or display as text?
