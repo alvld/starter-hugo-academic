@@ -13,7 +13,7 @@ sections:
     design:
       columns: '1'
     spacing:
-      padding: ["20px", "0", "20px", "0"]
+      padding: ["30px", "30px", "30px", "30px"]
   - block: about.avatar
     id: about
     content:
