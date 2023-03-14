@@ -11,7 +11,9 @@ sections:
       text: |-
         {{< gallery album="gallery_alpini" >}}
     design:
-      columns: '2'
+      columns: '1'
+    spacing:
+      padding: ["20px", "0", "20px", "0"]
   - block: about.avatar
     id: about
     content:
