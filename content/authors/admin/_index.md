@@ -5,12 +5,6 @@ avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - display:
       header: false
     link: https://www.facebook.com/gruppoalpinivaldarno/
