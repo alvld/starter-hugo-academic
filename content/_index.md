@@ -9,9 +9,9 @@ sections:
     content:
       subtitle: ''
       text: |-
-        {{< gallery album="gallery_alpini" resize_options="100x100" >}}
+        {{< gallery album="gallery_alpini" >}}
     design:
-      columns: '1'
+      columns: '2'
   - block: about.avatar
     id: about
     content:
