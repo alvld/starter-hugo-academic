@@ -1,5 +1,5 @@
 ---
-title: esempio nuovo evento
+title: esempio x evento
 date: 2023-02-27T15:54:01.896Z
 draft: false
 featured: false
