@@ -1,6 +1,6 @@
 ---
 title: esempio x evento
-date: 2023-02-27T15:54:01.896Z
+date: 2023-03-01T13:22:12.091Z
 draft: false
 featured: false
 image:
