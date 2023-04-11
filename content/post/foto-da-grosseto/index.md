@@ -1,5 +1,6 @@
 ---
-title: Foto da Grosseto
+title: Grosseto 28 Marzo2023 Centenario Aeronautica Militare
+subtitle: "I﻿n Allegato troverete il link della giornata "
 date: 2023-04-11T07:52:25.333Z
 summary: ""
 draft: false
