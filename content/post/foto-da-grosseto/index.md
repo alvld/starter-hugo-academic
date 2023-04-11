@@ -1,5 +1,5 @@
 ---
-title: Grosseto 28 Marzo2023 foto
+title: Grosseto 28 Marzo2023 -FOTO-
 subtitle: ""
 date: 2023-04-11T07:52:25.333Z
 summary: ""
