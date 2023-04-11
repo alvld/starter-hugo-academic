@@ -6,7 +6,7 @@ summary: ""
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: <https://drive.google.com/drive/folders/1BwD121Sg-69j5lpgUP34ewhgDk7SoMIn?usp=share_link>
   focal_point: Smart
   preview_only: false
 ---
